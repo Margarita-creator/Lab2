@@ -1,5 +1,4 @@
-//Copyright by C++_developers1488
-
+//Copyright by NIK
 #include "Time.h"
 
 Time::Time(Check_type t, std::vector<int64_t>& sizes) {

@@ -1,4 +1,4 @@
-//Copyright by C++_developers1488
+//Copyright by NIK
 
 #include "Check.h"
 #include "Time.h"
