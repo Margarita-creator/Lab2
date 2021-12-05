@@ -74,8 +74,7 @@ void Check::print(std::ostream& os) {
   os << "\t- experiment:\n"
   << "\t\tnumber: " << id << std::endl
   << "\t\tinput_data:\n"
-     <<"\t\t\tbuffer_size: "
-  << Byte_value(size) << std::endl
+     <<"\t\t\tbuffer_size: " << size << std::endl
   << "\t\tresults:\n"
      <<"\t\t\tduration: "
   << time << " ms\n";

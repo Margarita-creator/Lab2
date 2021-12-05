@@ -10,8 +10,6 @@
 #include <string>
 
 
-std::string Byte_value(long value);
-
 using namespace std;
 
 enum Check_type {

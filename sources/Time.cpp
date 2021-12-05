@@ -14,9 +14,9 @@ Time::Time(Check_type t, std::vector<int64_t>& sizes) {
 }
 void Time::print(std::ostream& os) {
   os<< "investigation\n\ttravel_variant: " << to_string(type) << std::endl;
-  for (Check& experiment : experiments)
+  for (Check& experm : experiments)
   {
     os << "\texperiment:\n";
-    experiment.print(os);
+    experm.print(os);
   }
 }
