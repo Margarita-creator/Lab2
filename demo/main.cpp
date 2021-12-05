@@ -4,7 +4,7 @@
 #include "Check.h"
 #include "Time.h"
 
-//int main() {
+int main() {
   std::vector <int64_t> size;
 
   long i=1;
