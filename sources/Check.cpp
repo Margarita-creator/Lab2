@@ -1,4 +1,5 @@
-//Copyright by NIK
+//Copyright by Margarita-creator
+
 
 #include "Check.h"
 #include <chrono>

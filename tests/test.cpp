@@ -1,4 +1,4 @@
-//Copyright by NIK
+//Copyright by Margarita-creator
 
 #ifndef TEST_CPP_
 #define TEST_CPP_

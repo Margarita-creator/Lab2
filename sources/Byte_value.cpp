@@ -1,4 +1,4 @@
-//Copyright by NIK
+//Copyright by Margarita-creator
 
 
 #include <string>

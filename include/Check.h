@@ -1,4 +1,5 @@
-//Copyright by NIK
+//Copyright by Margarita-creator
+
 
 #ifndef INCLUDE_CHECK_HPP_
 #define INCLUDE_CHECK_HPP_
